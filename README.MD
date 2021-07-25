@@ -52,6 +52,10 @@ It could be much slower if you do not have GPU and only run with CPU.
  pip install numpy 
 ```
 
+## Load Data
+
+Since the sequences in the data set have different frame numbers, during the process of data loading, this project performs frame-filling operations on the data to increase the frame numbers of all sequences to `350fps`. For the method of frame supplementation, this project uses the mean value method, which means that the gap between any two frames is linearly supplemented.
+
 ## Demo
 
 Download pretrained model from [BaiduDisk](https://pan.baidu.com/s/1IhK8TaXyoWyI9cYG7LBr2A) with password：wtcy
