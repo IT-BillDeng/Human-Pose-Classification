@@ -10,7 +10,7 @@ The final homework of the scoure Artificial Intelligence Comprehensive Experimen
 
 For more details, please read `show.pptx`(Simple Chinese).
 
-**Tercher:** Liu Mengyuan
+**Teacher:** Liu Mengyuan
 
 **Group Member:** Deng Yushan, Duan Yuxiao, Ding Yuhao, Deng Zhuotao, Yu Zhanpeng
 
@@ -31,7 +31,7 @@ Synthesizing the original data form and task characteristics, we choose LSTM, a 
 
 |   GPU                 | Trainining | GPU Memory |
 | :------:              | :--------: | :---------:|
-|   GeForce RTX 2060    |     45 iter/min  | 4 GB |
+|   GeForce RTX 2060 Laptop   |     45 iter/min  | 4 GB |
 
 
 
